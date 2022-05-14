@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Ash-Kulkarni
-- 👀 I’m interested in automation and data analysis 
-- 🌱 I’m currently learning data analysis with python
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me ash.kulkarni@arup.com 
 
